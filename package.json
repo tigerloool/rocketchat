@@ -42,7 +42,7 @@
 	},
 	"homepage": "https://github.com/RocketChat/Rocket.Chat#readme",
 	"engines": {
-		"node": "20.x"
+		"node": "20.x",
 		"yarn": "4.7.0"
 	},
 	"packageManager": "yarn@4.7.0",
